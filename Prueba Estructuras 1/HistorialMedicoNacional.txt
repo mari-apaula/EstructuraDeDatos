@@ -1,0 +1,18 @@
+	Paciente: 1
+Cedula de identidad: 1111111111
+Apellidos: xxx
+Nombres: xxx
+Fecha de Nacimiento: 22222
+Estatura: 222,00
+Peso: 66,00
+Alergias: ni
+
+	Paciente: 2
+Cedula de identidad: 23555
+Apellidos: sdfs
+Nombres: sfd
+Fecha de Nacimiento: 365
+Estatura: 255,00
+Peso: 56,00
+Alergias: sdf
+

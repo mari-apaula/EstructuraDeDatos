@@ -27,8 +27,11 @@ public class Asignar {
         insertar(miArreglo);
         presentar(miArreglo);
         
-        insertar1(miArreglo);
-        presentar1(miArreglo);
+        // insertar1(miArreglo);
+        // presentar1(miArreglo);
+        int post1 = busquedaSecl(miArreglo, 2);
+        System.out.println("numero buscado esta en " + post1);
+        eliminar1(miArreglo, 3);
         
         for( int i=0; i < miArreglo.length; i++){
             System.out.println("Ingrese elemento en la posicion " + i + "");

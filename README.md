@@ -1,2 +1,2 @@
-# recursividad
-semana 2 Recuersividad 
+# Estructura de Datos
+Bimestre 1
